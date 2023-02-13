@@ -1,1 +1,1 @@
-# learn-game-dev-with-js
+# learn-js-with-game
